@@ -1,0 +1,7 @@
+{
+  "name": "GUNCELL",
+  "description": "Real-time AI voice translation and communication tool with transcript history and device management.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
